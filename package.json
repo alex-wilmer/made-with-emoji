@@ -1,0 +1,19 @@
+{
+  "name": "made-with-emoji",
+  "version": "0.1.0",
+  "description": "Fun with emojis and components yay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alex-wilmer/made-with-emoji.git"
+  },
+  "author": "Alex Wilmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-wilmer/made-with-emoji/issues"
+  },
+  "homepage": "https://github.com/alex-wilmer/made-with-emoji#readme"
+}
